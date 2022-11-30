@@ -2,7 +2,7 @@
 
 This is the official code release of the following paper: 
 
-Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu. AAAI 2023.
+Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu.[Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs](https://arxiv.org/abs/2211.15845) AAAI 2023.
 
 ![image](overview.jpg)
 
